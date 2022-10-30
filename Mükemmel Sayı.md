@@ -1,0 +1,1 @@
+Mükemmel Sayıyı bulma formülü
